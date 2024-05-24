@@ -13,13 +13,8 @@ import { en, es, id, ar, pt, de, it } from './lib/idiomas/total-idiomas.js'
 // EN ➜ Add the Bot number as priority first
 // EN ➜ If you want to receive reports you must use the three parameters (Number, name and true)
 global.owner = [
-['447700168473', '𝙊𝙬𝙣𝙚𝙧 💖🐈', true], //𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈
-['593968263524', '𝙂𝘽 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖 💖🐈', true],
-['593968585383'],
-['595976126756'],
-['201066826750'],
-['201033024135'],
-['50492280729'],
+['8291070623', '𝘼𝙡𝙘𝙖𝘽𝙤𝙩 ', true], //Alcashop
+['528241050228', ' 𝘼𝙡𝙘𝙖 𝘼𝙨𝙞𝙨𝙩𝙚𝙣𝙘𝙞𝙖', true],
 ["5215649706747"]]
 
 global.mods = [] 
@@ -91,65 +86,62 @@ global.fetch = fetch
 global.axios = axios
 global.moment = moment	
 
-global.packname = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈'
-global.author = '𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
+global.packname = '🔰𝘼𝙡𝙘𝙖𝘽𝙤𝙩'
+global.author = '🔰𝘼𝙡𝙘𝙖𝘽𝙤𝙩'
 
 // ES ➜ Está parte es para mostrar el contacto de alguien al usar #contacto
 // EN ➜ This part is to display someone's contact using #contact
 global.official = [ 
-['18059196237', 'Gata Dios 💻', 1], 
-['5492266466080', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1],  
-['59894808483', '𝗖𝘂𝘀𝘁𝗼𝗺𝗲𝗿 𝗦𝘂𝗽𝗽𝗼𝗿𝘁 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 🥏', 1],
-['5521989092076', '𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗮 𝗢𝗳𝗶𝗰𝗶𝗮𝗹 💻', 1]] 
+['528241050228', '🔰𝘼𝙡𝙘𝙖𝘽𝙤𝙩', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = '' //agrega una descripción corta
 global.desc2 = '' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
-global.country = '' //agrega tú país ejemplo: 🇪🇨
+global.country = '🇲🇽' //agrega tú país ejemplo: 🇪🇨
 
 global.vs = '1.4.0'
 global.vsJB = '4.5'
 
-global.gt = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
-global.yt = 'https://youtube.com/@gatadios'
-global.yt2 = 'https://www.youtube.com/watch?v=Ko019wvu2Tc&t=71s'
-global.ig = 'https://www.instagram.com/gata_dios'
-global.md = 'https://github.com/GataNina-Li/GataBotLite-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.gt = '𝘼𝙡𝙘𝙖𝘽𝙤𝙩'
+global.yt = 'https://www.instagram.com/alcashop.ff'
+global.yt2 = 'https://www.instagram.com/alcashop.ff
+global.ig = 'https://www.instagram.com/alcashop.ff'
+global.md = 'https://www.instagram.com/alcashop.ff'
+global.fb = 'https://www.instagram.com/alcashop.ff'
 
-global.nna = 'https://whatsapp.com/channel/0029Va6yY0iLY6d6XDmqA03g' //CANAL UPDATE
-global.nn2 = 'https://t.me/globalgb' //Canal GataBot
-global.nna2 = 'https://chat.whatsapp.com/KaTeeaexrGSHBzPm4s945b' //Help
-global.nn = 'https://chat.whatsapp.com/HBIIrHorHbW2LIxlS9MjRI' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/CtA2nopOZor0bRwV3FCYH3' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/HVLk7c3ZlNN0mJjodw4NkV' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/BSDrNVhj2lVElUgrNnGoby' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/CciFSHhsYxd9TqW2tZhhZx' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ej5AUrpmYnJKYtEa6YMwK6' //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/I9DsG6ABKer27NbW01Nl39' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/KQtWZDVfosTKbheIlndLBN' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/BngbJC3aBVhF5KjoaawiT1' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/HOCsvLox0Ui7cwzTCeFhPP' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
-global.asistencia = 'Wa.me/19393844141' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //CANAL UPDATE
+global.nn2 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' 
+global.nna2 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Help
+global.nn = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 6
+global.nnnttt2 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 7 
+global.nnnttt3 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 8 
+global.nnnttt4 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //Grupo 9
+global.nnnttt5 = 'https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz' //A.T.M
+global.paypal = 'https://paypal.me'
+global.asistencia = 'Wa.me/528241050228' //Dudas? escríbeme...
 
-global.wm = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿 🌻🐈 : 𝙂𝙖𝙩𝙖 𝘿𝙞𝙤𝙨'
-global.igfg = '𝙂𝙖𝙩𝙖𝘽𝙤𝙩𝙇𝙞𝙩𝙚-𝙈𝘿'
+global.wm = '𝘼𝙡𝙘𝙖𝘽𝙤𝙩✔️ : 𝘼𝙡𝙘𝙖'
+global.igfg = '𝘼𝙡𝙘𝙖𝘽𝙤𝙩✔️'
 global.nomorown = owner[0][0]
 
-global.imagen1 = fs.readFileSync('./media/menus/Menu3.jpg')
-global.imagen2 = fs.readFileSync('./media/menus/img1.jpg')
-global.imagen3 = fs.readFileSync('./media/menus/img2.jpg')
-global.imagen4 = fs.readFileSync('./media/menus/img3.jpg')
-global.imagen5 = fs.readFileSync('./media/menus/img4.jpg')
-global.imagen6 = fs.readFileSync('./media/menus/img5.jpg')
-global.imagen7 = fs.readFileSync('./media/menus/img6.jpg')
-global.imagen8 = fs.readFileSync('./media/menus/img7.jpg')
-global.imagen9 = fs.readFileSync('./media/menus/img8.jpg')
-global.imagen10 = fs.readFileSync('./media/menus/img9.jpg')
-global.imagen11 = fs.readFileSync('./media/menus/img10.jpg')
-global.imagen12 = fs.readFileSync('./media/menus/img11.jpg')
-global.imagen13 = fs.readFileSync('./media/menus/img12.jpg')
+global.imagen1 = fs.readFileSync("./media/menus/Menu3.jpg")
+global.imagen2 = fs.readFileSync("./media/menus/img1.jpg")
+global.imagen3 = fs.readFileSync("./media/menus/img2.jpg")
+global.imagen4 = fs.readFileSync("./media/menus/img3.jpg")
+global.imagen5 = fs.readFileSync("./media/menus/img4.jpg")
+global.imagen6 = fs.readFileSync("./media/menus/img5.jpg")
+global.imagen7 = fs.readFileSync("./media/menus/img6.jpg")
+global.imagen8 = fs.readFileSync("./media/menus/img7.jpg")
+global.imagen9 = fs.readFileSync("./media/menus/img8.jpg")
+global.imagen10 = fs.readFileSync("./media/menus/img9.jpg")
+global.imagen11 = fs.readFileSync("./media/menus/img10.jpg")
+global.imagen12 = fs.readFileSync("./media/menus/img11.jpg")
+global.imagen13 = fs.readFileSync("./media/menus/img12.jpg")
 
 global.img = 'https://i.imgur.com/AwlL9kc.jpeg'
 global.img2 = 'https://i.imgur.com/p18q1Ok.jpeg'

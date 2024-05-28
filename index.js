@@ -54,7 +54,7 @@ say('Alca\nBot', {
  gradient: ['red', 'magenta']
 })}
 
-say(`Project Author:\nGataNina-Li (@gata_dios)\n\nDevelopers:\nelrebelde21 (Mario)\nKatashiFukushima (Katashi)`.trim(), {
+say(`CREADOR OFICIAL ALCASHOP.FF`.trim(), {
  font: 'console',
  align: 'center',
  colors: ['candy']

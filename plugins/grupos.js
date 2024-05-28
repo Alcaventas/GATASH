@@ -84,7 +84,7 @@ reportError(e)
 } 
 break
 
-//FUNCIÓN HECHA POR https://github.com/Azami19
+//FUNCIÓN HECHA POR @Alcashop.ff
 case isCommand4:
 let [, code] = text.match(/chat\.whatsapp\.com\/(?:invite\/)?([0-9A-Za-z]{20,24})/i) || []
 if (!code) return m.reply(lenguajeGB.smsMalused() + usedPrefix + command + ' ' + nna)

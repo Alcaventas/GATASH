@@ -48,7 +48,7 @@ return [getRandomColor(), getRandomColor()];
 cfonts.say('gatabot\nlite\nmd'.trim(), options)
 
 } catch (err) {
-say('GataBot\nLite\nMD', {
+say('AlcaBot', {
  font: 'chrome',
  align: 'center',
  gradient: ['red', 'magenta']

@@ -8,9 +8,9 @@ let handler = async (m, { conn, args, command, usedPrefix }) => {
 if (!args[0]) throw `12 𝐕𝐄𝐑𝐒𝐔𝐒 12
 
 𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇵🇪 𝐏𝐄𝐑𝐔 : 
-🇦🇷 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 : 
-🇨🇱 𝐂𝐇𝐈𝐋𝐄 : 
+🇲🇽 𝗠𝗘𝗫𝗜𝗖𝗢: 
+🇨🇴 𝗖𝗢𝗟𝗢𝗠𝗕𝗜𝗔: 
+🇩🇴 𝐑𝐃:  
 𝐂𝐎𝐋𝐎𝐑 𝐃𝐄 𝐑𝐎𝐏𝐀: 
 ¬ 𝐉𝐔𝐆𝐀𝐃𝐎𝐑𝐄𝐒 𝐏𝐑𝐄𝐒𝐄𝐍𝐓𝐄𝐒
 
@@ -97,7 +97,7 @@ console.log('7 ' + err7)
 throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*`
 }}}}}}}}}
 handler.command = /^(12vs12|vs12)$/i
-handler.register = true
+handler.register = false
 handler.group = true
 handler.admin = true
 export default handler

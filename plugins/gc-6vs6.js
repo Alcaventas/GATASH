@@ -81,7 +81,7 @@ console.log('7 ' + err7)
 throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*`
 }}}}}}}}}
 handler.command = /^(6vs6|vs6)$/i
-handler.register = true
+handler.register = false
 handler.group = true
 handler.admin = true
 export default handler

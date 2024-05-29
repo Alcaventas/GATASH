@@ -8,9 +8,9 @@ let handler = async (m, { conn, args, command, usedPrefix }) => {
 if (!args[0]) throw `4 𝐕𝐄𝐑𝐒𝐔𝐒 4 𝐈𝐍𝐓𝐄𝐑𝐍𝐎
 
 𝐇𝐎𝐑𝐀𝐑𝐈𝐎
-🇵🇪 𝐏𝐄𝐑𝐔 : 
-🇦🇷 𝐀𝐑𝐆𝐄𝐍𝐓𝐈𝐍𝐀 : 
-🇨🇱 𝐂𝐇𝐈𝐋𝐄 :  
+🇲🇽 𝗠𝗘𝗫𝗜𝗖𝗢: 
+🇨🇴 𝗖𝗢𝗟𝗢𝗠𝗕𝗜𝗔: 
+🇩🇴 𝐑𝐃:  
 
       𝗘𝗦𝗖𝗨𝗔𝗗𝗥𝗔 1
 🥷🏻 ┇ 
@@ -82,7 +82,7 @@ console.log('7 ' + err7)
 throw `*[❗𝐈𝐍𝐅𝐎❗] 𝙴𝚁𝚁𝙾𝚁, 𝙿𝙾𝚁 𝙵𝙰𝚅𝙾𝚁 𝚅𝚄𝙴𝙻𝚅𝙰 𝙰 𝙸𝙽𝚃𝙴𝙽𝚃𝙰𝚁𝙻𝙾*`
 }}}}}}}}}
 handler.command = /^(imixta|internamixta)$/i
-handler.register = true
+handler.register = false
 handler.group = true
 handler.admin = true
 export default handler

@@ -12,7 +12,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
-["528241050228", '𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24', true], //Alcabots
+["528241050228", '✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵', true], //Alcabots
 ["528246200244", '@alcashop.ff', true], //Alcabots
 
 global.mods = []
@@ -120,8 +120,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24"
-global.author = "𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24"
+global.packname = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
+global.author = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -129,7 +129,7 @@ global.author = "𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24"
+global.gt = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
@@ -155,9 +155,9 @@ global.eg = '╰⊱💚⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎�
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
-global.wm = "𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24"
-global.igfg = "𝘼𝙡𝙘𝙖𝘽𝙤𝙩𝙑.24"
-global.nomorown = "528241050228"
+global.wm = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
+global.igfg = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
+global.nomorown = "528241264763"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 

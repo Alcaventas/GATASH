@@ -108,8 +108,8 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["528241050228", 'Alcashop', 1], 
-["528246200244", 'Alcashop', 1]]
+["528246200244", 'Alcashop', 1], 
+["528241264763", '✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -124,8 +124,8 @@ global.author = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
 // MANTENGA ESTO SIN MODIFICAR, NOS ESFORZAMOS A DIARIO POR OFRECERLES UN BOT PARA LA COMUNIDAD, SEA AGRADECIDO 😉
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
-global.vs = "1.7.0"
-global.vsJB = "2.5 (Beta)"
+global.vs = '1.4.0'
+global.vsJB = '4.5'
 global.gt = "✔️𝘈𝘭𝘤𝘢𝘣𝘰𝘵"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •

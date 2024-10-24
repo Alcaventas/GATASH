@@ -97,10 +97,10 @@ if (!('sBye' in chat)) chat.sBye = ''
 if (!('sPromote' in chat)) chat.sPromote = ''              
 if (!('sDemote' in chat)) chat.sDemote = '' 
 if (!('delete' in chat)) chat.delete = true                  
-if (!('antiver' in chat)) chat.viewonce = true         
+if (!('antiver' in chat)) chat.viewonce = false         
 if (!('modoadmin' in chat)) chat.modoadmin = false     
-if (!('antiLink' in chat)) chat.antiLink = false
-if (!('antiLink2' in chat)) chat.antiLink2 = false    
+if (!('antiLink' in chat)) chat.antiLink = true
+if (!('antiLink2' in chat)) chat.antiLink2 = true    
 if (!('antiTiktok' in chat)) chat.antiTiktok = false
 if (!('antiYoutube' in chat)) chat.antiYoutube = false
 if (!('antiTelegram' in chat)) chat.antiTelegram = false
@@ -108,9 +108,9 @@ if (!('antiFacebook' in chat)) chat.antiFacebook = false
 if (!('antiInstagram' in chat)) chat.antiInstagram = false
 if (!('antiTwitter' in chat)) chat.antiInstagram = false
 if (!('antifake' in chat)) chat.antifake = false 
-if (!('antiTraba' in chat)) chat.antiTraba = true
-if (!('antitoxic' in chat)) chat.antitoxic = true 
-if (!('reaction' in chat)) chat.reaction = true
+if (!('antiTraba' in chat)) chat.antiTraba = false
+if (!('antitoxic' in chat)) chat.antitoxic = false 
+if (!('reaction' in chat)) chat.reaction = false
 if (!isNumber(chat.expired)) chat.expired = 0
 } else
 global.db.data.chats[m.chat] = {
@@ -121,11 +121,11 @@ sWelcome: '',
 sBye: '',
 sPromote: '',
 sDemote: '', 
-delete: true,
-antiver: true,
+delete: false,
+antiver: false,
 modoadmin: false,
-antiLink: false,
-antiLink2: false,	
+antiLink: true,
+antiLink2: teue,	
 antiTiktok: false,
 antiYoutube: false,
 antiTelegram: false,
@@ -133,9 +133,9 @@ antiFacebook: false,
 antiInstagram: false,
 antiTwitter: false,
 antifake: false,
-antiTraba: true,
-antitoxic: true,
-reaction: true,
+antiTraba: false,
+antitoxic: false,
+reaction: false,
 expired: 0,
 }
             
@@ -144,19 +144,19 @@ if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
 if (settings) {
 if (!('self' in settings)) settings.self = false
 if (!('autoread' in settings)) settings.autoread = false
-if (!('restrict' in settings)) settings.restrict = false
+if (!('restrict' in settings)) settings.restrict = true
 if (!('antiCall' in settings)) settings.antiCall = true
 if (!('antiPrivate' in settings)) settings.antiPrivate = false
 if (!('autoread2' in settings)) settings.autoread2 = false
-if (!('jadibotmd' in settings)) settings.jadibotmd = true  
+if (!('jadibotmd' in settings)) settings.jadibotmd = false  
 } else global.db.data.settings[this.user.jid] = {
 self: false,
 autoread: false,
 autoread2: false,
-restrict: false,
+restrict: true,
 antiCall: true,
 antiPrivate: false,
-jadibotmd: true,
+jadibotmd: false,
 }
 } catch (e) {
 console.error(e)

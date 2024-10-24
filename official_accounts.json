@@ -16,26 +16,26 @@
     },
 
     "channels": {
-      "channel1": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "channel2": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "channel3": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "channel4": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz"
+      "channel1": "",
+      "channel2": "",
+      "channel3": "",
+      "channel4": ""
     },
 
     "groups": {
-      "group1": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group2": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group3": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group4": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group5": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group6": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz"
+      "group1": "",
+      "group2": "",
+      "group3": "",
+      "group4": "",
+      "group5": "",
+      "group6": ""
     },
 
     "collaboration": {
-      "group1": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group2": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group3": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz",
-      "group4": "https://chat.whatsapp.com/channel/HdHsHWDvWfZHgQT2XLqxpz"
+      "group1": "",
+      "group2": "",
+      "group3": "",
+      "group4": ""
     },
 
     "sponsors": {
@@ -46,9 +46,9 @@
     },
 
     "others": {
-      "assistance_num": "https://wa.me/528241050228",
+      "assistance_num": "https://wa.me/528241264763",
       "yt_vid": "www.instagram.com/alcashop.ff",
-      "group_support": "https://chat.whatsapp.com/HdHsHWDvWfZHgQT2XLqxpz"
+      "group_support": ""
     }
 
   }
